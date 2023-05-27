@@ -6,7 +6,7 @@ print('''PEDRA, PAPEL E TESOURA
 [ 1 ] PAPEL
 [ 2 ] TESOURA
 ''')
-computador = randint(0, 2)
+computador = randint(0, 2) #o comuputador sorteia um número inteiro entre 0 e 2
 opcoes = int(input("Escolha uma das opções: "))
 
 print("-"*20)
