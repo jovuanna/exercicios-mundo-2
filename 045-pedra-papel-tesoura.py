@@ -1,6 +1,7 @@
 from random import randint
 from time import sleep #espera um tempo pra printar
 print('''PEDRA, PAPEL E TESOURA
+
 [ 0 ] PEDRA 
 [ 1 ] PAPEL
 [ 2 ] TESOURA
